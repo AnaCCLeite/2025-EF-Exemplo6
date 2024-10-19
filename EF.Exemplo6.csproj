@@ -18,6 +18,8 @@
 
     <ItemGroup>
       <Compile Remove="Migrations\AplicacaoDbContextModelSnapshot.cs" />
+      <Compile Remove="Migrations\20241018234507_test.cs" />
+      <Compile Remove="Migrations\20241018234507_test.Designer.cs" />
     </ItemGroup>
 
 </Project>
